@@ -1,0 +1,39 @@
+.wrapper{
+    height:100vh ;
+    background-color: #222222;
+}
+header{
+    background-color: #101010;
+}
+.admin_nav {
+   position: fixed;
+   top: 46px;
+   left: 0;
+   bottom: 0;
+    
+}
+.admin_menu{
+    position: fixed;
+    background-color: #101010;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.admin_content{
+    margin-top: 48px !important;
+}
+.main_content{
+    margin-left: 213px;
+}
+.nav-two:hover{
+    background-color: #101010 !important;
+    color: #fff;
+    width: 100%;
+    display: inline-block;
+}
+.item-nav:hover{
+    color:#fff;
+}
+ .wrapper .max-view-height{
+    height: 100vh !important;
+}
